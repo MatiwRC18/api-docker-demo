@@ -138,7 +138,7 @@ Con Docker, el entorno completo viaja dentro de la imagen. El resultado es siemp
 
 ## Integrantes
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
-- Nombre 4
+- Matiw Rivera
+- Isaac Alvarado
+- Melany Cespedes
+- Harold Avila
